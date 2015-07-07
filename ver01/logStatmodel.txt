@@ -1,0 +1,12 @@
+>2015-07-06-06-15-29: ### temperature is None! for: 0day_ForecastIO_Temperature
+>2015-07-06-06-15-29: ### temperature is None! for: 1day_6time_ForecastIO_Temperature
+>2015-07-06-12-15-29: ### temperature is None! for: 0day_ForecastIO_Temperature
+>2015-07-06-12-15-29: ### temperature is None! for: 1day_11time_ForecastIO_Temperature
+>2015-07-06-18-15-29: ### temperature is None! for: 0day_ForecastIO_Temperature
+>2015-07-06-18-15-29: ### temperature is None! for: 1day_17time_ForecastIO_Temperature
+>2015-07-07-06-15-30: ### temperature is None! for: 1day_ForecastIO_Temperature
+>2015-07-07-06-15-30: ### temperature is None! for: 2day_6time_ForecastIO_Temperature
+>2015-07-07-12-15-30: ### temperature is None! for: 1day_ForecastIO_Temperature
+>2015-07-07-12-15-30: ### temperature is None! for: 2day_11time_ForecastIO_Temperature
+>2015-07-07-18-15-36: ### temperature is None! for: 1day_ForecastIO_Temperature
+>2015-07-07-18-15-36: ### temperature is None! for: 2day_17time_ForecastIO_Temperature

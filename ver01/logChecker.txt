@@ -1,0 +1,251 @@
+>2015-07-05-23-15-29: WeatherDataChecker --- START
+>2015-07-05-23-15-29: dump files missing! - quit!
+>2015-07-06-06-15-29: WeatherDataChecker --- START
+>2015-07-06-06-15-29: set up weather APIs
+>2015-07-06-06-15-29: get current weather
+>2015-07-06-06-15-29: load time series data
+>2015-07-06-06-15-29: WCOM
+>2015-07-06-06-15-29: OWM
+>2015-07-06-06-15-29: FIO
+>2015-07-06-06-15-29: Current
+>2015-07-06-06-15-29: no current data found
+>2015-07-06-06-15-29: update time series data
+>2015-07-06-06-15-29: save time series data
+>2015-07-06-06-15-29: do statistics
+>2015-07-06-06-15-29: set up date and hour
+>2015-07-06-06-15-29: current hour: 6
+>2015-07-06-06-15-29: closest hour6
+>2015-07-06-06-15-29: setup statistical error computation
+>2015-07-06-06-15-29: read files
+>2015-07-06-06-15-29: files not found.
+>2015-07-06-06-15-29: read errorsamplepoints
+>2015-07-06-06-15-29: file not found
+>2015-07-06-06-15-29: do statistics and parse forecast data
+>2015-07-06-06-15-29: check date: 2015-07-06
+>2015-07-06-06-15-29: OWM
+>2015-07-06-06-15-29: FIO
+>2015-07-06-06-15-29: WCOM
+>2015-07-06-06-15-29: check date: 2015-07-05
+>2015-07-06-06-15-29: date not found!
+>2015-07-06-06-15-29: check date: 2015-07-04
+>2015-07-06-06-15-29: date not found!
+>2015-07-06-06-15-29: save statistics
+>2015-07-06-06-15-29: plot data.
+>2015-07-06-06-15-41: --- END ---
+
+>2015-07-06-12-15-29: WeatherDataChecker --- START
+>2015-07-06-12-15-29: set up weather APIs
+>2015-07-06-12-15-29: get current weather
+>2015-07-06-12-15-29: load time series data
+>2015-07-06-12-15-29: WCOM
+>2015-07-06-12-15-29: OWM
+>2015-07-06-12-15-29: FIO
+>2015-07-06-12-15-29: Current
+>2015-07-06-12-15-29: current data found.
+>2015-07-06-12-15-29: update time series data
+>2015-07-06-12-15-29: save time series data
+>2015-07-06-12-15-29: do statistics
+>2015-07-06-12-15-29: set up date and hour
+>2015-07-06-12-15-29: current hour: 12
+>2015-07-06-12-15-29: closest hour12
+>2015-07-06-12-15-29: setup statistical error computation
+>2015-07-06-12-15-29: read files
+>2015-07-06-12-15-29: OWM
+>2015-07-06-12-15-29: FIO
+>2015-07-06-12-15-29: WCOM
+>2015-07-06-12-15-29: read errorsamplepoints
+>2015-07-06-12-15-29: file found
+>2015-07-06-12-15-29: do statistics and parse forecast data
+>2015-07-06-12-15-29: check date: 2015-07-06
+>2015-07-06-12-15-29: OWM
+>2015-07-06-12-15-29: FIO
+>2015-07-06-12-15-29: WCOM
+>2015-07-06-12-15-29: check date: 2015-07-05
+>2015-07-06-12-15-29: date not found!
+>2015-07-06-12-15-29: check date: 2015-07-04
+>2015-07-06-12-15-29: date not found!
+>2015-07-06-12-15-29: save statistics
+>2015-07-06-12-15-29: plot data.
+>2015-07-06-12-15-42: --- END ---
+
+>2015-07-06-18-15-29: WeatherDataChecker --- START
+>2015-07-06-18-15-29: set up weather APIs
+>2015-07-06-18-15-29: get current weather
+>2015-07-06-18-15-29: load time series data
+>2015-07-06-18-15-29: WCOM
+>2015-07-06-18-15-29: OWM
+>2015-07-06-18-15-29: FIO
+>2015-07-06-18-15-29: Current
+>2015-07-06-18-15-29: current data found.
+>2015-07-06-18-15-29: update time series data
+>2015-07-06-18-15-29: save time series data
+>2015-07-06-18-15-29: do statistics
+>2015-07-06-18-15-29: set up date and hour
+>2015-07-06-18-15-29: current hour: 18
+>2015-07-06-18-15-29: closest hour18
+>2015-07-06-18-15-29: setup statistical error computation
+>2015-07-06-18-15-29: read files
+>2015-07-06-18-15-29: OWM
+>2015-07-06-18-15-29: FIO
+>2015-07-06-18-15-29: WCOM
+>2015-07-06-18-15-29: read errorsamplepoints
+>2015-07-06-18-15-29: file found
+>2015-07-06-18-15-29: do statistics and parse forecast data
+>2015-07-06-18-15-29: check date: 2015-07-06
+>2015-07-06-18-15-29: OWM
+>2015-07-06-18-15-29: FIO
+>2015-07-06-18-15-29: WCOM
+>2015-07-06-18-15-29: check date: 2015-07-05
+>2015-07-06-18-15-29: date not found!
+>2015-07-06-18-15-29: check date: 2015-07-04
+>2015-07-06-18-15-29: date not found!
+>2015-07-06-18-15-29: save statistics
+>2015-07-06-18-15-29: plot data.
+>2015-07-06-18-15-42: --- END ---
+
+>2015-07-06-23-15-30: WeatherDataChecker --- START
+>2015-07-06-23-15-30: set up weather APIs
+>2015-07-06-23-15-30: get current weather
+>2015-07-06-23-15-30: load time series data
+>2015-07-06-23-15-30: WCOM
+>2015-07-06-23-15-30: OWM
+>2015-07-06-23-15-30: FIO
+>2015-07-06-23-15-30: Current
+>2015-07-06-23-15-30: current data found.
+>2015-07-06-23-15-30: update time series data
+>2015-07-06-23-15-30: save time series data
+>2015-07-06-23-15-30: do statistics
+>2015-07-06-23-15-30: set up date and hour
+>2015-07-06-23-15-30: current hour: 23
+>2015-07-06-23-15-30: closest hour21
+>2015-07-06-23-15-30: setup statistical error computation
+>2015-07-06-23-15-30: read files
+>2015-07-06-23-15-30: OWM
+>2015-07-06-23-15-30: FIO
+>2015-07-06-23-15-30: WCOM
+>2015-07-06-23-15-30: read errorsamplepoints
+>2015-07-06-23-15-30: file found
+>2015-07-06-23-15-30: do statistics and parse forecast data
+>2015-07-06-23-15-30: check date: 2015-07-06
+>2015-07-06-23-15-30: OWM
+>2015-07-06-23-15-30: FIO
+>2015-07-06-23-15-30: WCOM
+>2015-07-06-23-15-30: check date: 2015-07-05
+>2015-07-06-23-15-30: date not found!
+>2015-07-06-23-15-30: check date: 2015-07-04
+>2015-07-06-23-15-30: date not found!
+>2015-07-06-23-15-30: save statistics
+>2015-07-06-23-15-30: plot data.
+>2015-07-06-23-15-42: --- END ---
+
+>2015-07-07-06-15-30: WeatherDataChecker --- START
+>2015-07-07-06-15-30: set up weather APIs
+>2015-07-07-06-15-30: get current weather
+>2015-07-07-06-15-30: load time series data
+>2015-07-07-06-15-30: WCOM
+>2015-07-07-06-15-30: OWM
+>2015-07-07-06-15-30: FIO
+>2015-07-07-06-15-30: Current
+>2015-07-07-06-15-30: current data found.
+>2015-07-07-06-15-30: update time series data
+>2015-07-07-06-15-30: save time series data
+>2015-07-07-06-15-30: do statistics
+>2015-07-07-06-15-30: set up date and hour
+>2015-07-07-06-15-30: current hour: 6
+>2015-07-07-06-15-30: closest hour6
+>2015-07-07-06-15-30: setup statistical error computation
+>2015-07-07-06-15-30: read files
+>2015-07-07-06-15-30: OWM
+>2015-07-07-06-15-30: FIO
+>2015-07-07-06-15-30: WCOM
+>2015-07-07-06-15-30: read errorsamplepoints
+>2015-07-07-06-15-30: file found
+>2015-07-07-06-15-30: do statistics and parse forecast data
+>2015-07-07-06-15-30: check date: 2015-07-07
+>2015-07-07-06-15-30: OWM
+>2015-07-07-06-15-30: FIO
+>2015-07-07-06-15-30: WCOM
+>2015-07-07-06-15-30: check date: 2015-07-06
+>2015-07-07-06-15-30: OWM
+>2015-07-07-06-15-30: FIO
+>2015-07-07-06-15-30: WCOM
+>2015-07-07-06-15-30: check date: 2015-07-05
+>2015-07-07-06-15-30: date not found!
+>2015-07-07-06-15-30: save statistics
+>2015-07-07-06-15-30: plot data.
+>2015-07-07-06-15-44: --- END ---
+
+>2015-07-07-12-15-30: WeatherDataChecker --- START
+>2015-07-07-12-15-30: set up weather APIs
+>2015-07-07-12-15-30: get current weather
+>2015-07-07-12-15-30: load time series data
+>2015-07-07-12-15-30: WCOM
+>2015-07-07-12-15-30: OWM
+>2015-07-07-12-15-30: FIO
+>2015-07-07-12-15-30: Current
+>2015-07-07-12-15-30: current data found.
+>2015-07-07-12-15-30: update time series data
+>2015-07-07-12-15-30: save time series data
+>2015-07-07-12-15-30: do statistics
+>2015-07-07-12-15-30: set up date and hour
+>2015-07-07-12-15-30: current hour: 12
+>2015-07-07-12-15-30: closest hour12
+>2015-07-07-12-15-30: setup statistical error computation
+>2015-07-07-12-15-30: read files
+>2015-07-07-12-15-30: OWM
+>2015-07-07-12-15-30: FIO
+>2015-07-07-12-15-30: WCOM
+>2015-07-07-12-15-30: read errorsamplepoints
+>2015-07-07-12-15-30: file found
+>2015-07-07-12-15-30: do statistics and parse forecast data
+>2015-07-07-12-15-30: check date: 2015-07-07
+>2015-07-07-12-15-30: OWM
+>2015-07-07-12-15-30: FIO
+>2015-07-07-12-15-30: WCOM
+>2015-07-07-12-15-30: check date: 2015-07-06
+>2015-07-07-12-15-30: OWM
+>2015-07-07-12-15-30: FIO
+>2015-07-07-12-15-30: WCOM
+>2015-07-07-12-15-30: check date: 2015-07-05
+>2015-07-07-12-15-30: date not found!
+>2015-07-07-12-15-30: save statistics
+>2015-07-07-12-15-30: plot data.
+>2015-07-07-12-15-44: --- END ---
+
+>2015-07-07-18-15-30: WeatherDataChecker --- START
+>2015-07-07-18-15-30: set up weather APIs
+>2015-07-07-18-15-30: get current weather
+>2015-07-07-18-15-36: load time series data
+>2015-07-07-18-15-36: WCOM
+>2015-07-07-18-15-36: OWM
+>2015-07-07-18-15-36: FIO
+>2015-07-07-18-15-36: Current
+>2015-07-07-18-15-36: current data found.
+>2015-07-07-18-15-36: update time series data
+>2015-07-07-18-15-36: save time series data
+>2015-07-07-18-15-36: do statistics
+>2015-07-07-18-15-36: set up date and hour
+>2015-07-07-18-15-36: current hour: 18
+>2015-07-07-18-15-36: closest hour18
+>2015-07-07-18-15-36: setup statistical error computation
+>2015-07-07-18-15-36: read files
+>2015-07-07-18-15-36: OWM
+>2015-07-07-18-15-36: FIO
+>2015-07-07-18-15-36: WCOM
+>2015-07-07-18-15-36: read errorsamplepoints
+>2015-07-07-18-15-36: file found
+>2015-07-07-18-15-36: do statistics and parse forecast data
+>2015-07-07-18-15-36: check date: 2015-07-07
+>2015-07-07-18-15-36: OWM
+>2015-07-07-18-15-36: FIO
+>2015-07-07-18-15-36: WCOM
+>2015-07-07-18-15-36: check date: 2015-07-06
+>2015-07-07-18-15-36: OWM
+>2015-07-07-18-15-36: FIO
+>2015-07-07-18-15-36: WCOM
+>2015-07-07-18-15-36: check date: 2015-07-05
+>2015-07-07-18-15-36: date not found!
+>2015-07-07-18-15-36: save statistics
+>2015-07-07-18-15-36: plot data.
+>2015-07-07-18-15-51: --- END ---
+

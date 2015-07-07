@@ -1,0 +1,34 @@
+>2015-07-06-03-00-01: WeatherDataAgregator --- START
+>2015-07-06-03-00-01: setup weather APIs
+>2015-07-06-03-00-01: get forecasts
+>2015-07-06-03-00-04: get time series
+>2015-07-06-03-00-04: WCOM
+>2015-07-06-03-00-04: OWM
+>2015-07-06-03-00-04: FIO
+>2015-07-06-03-00-04: load time series data from file
+>2015-07-06-03-00-04: Dump files missing!
+>2015-07-06-03-00-04: update time series with current forecast
+>2015-07-06-03-00-04: save time series data to file
+>2015-07-06-03-00-04: WCOM
+>2015-07-06-03-00-04: OWM
+>2015-07-06-03-00-04: FIO
+>2015-07-06-03-00-04: --- END ---
+
+>2015-07-07-03-00-01: WeatherDataAgregator --- START
+>2015-07-07-03-00-01: setup weather APIs
+>2015-07-07-03-00-01: get forecasts
+>2015-07-07-03-00-35: get time series
+>2015-07-07-03-00-35: WCOM
+>2015-07-07-03-00-35: OWM
+>2015-07-07-03-00-35: FIO
+>2015-07-07-03-00-35: load time series data from file
+>2015-07-07-03-00-35: WCOM
+>2015-07-07-03-00-35: OWM
+>2015-07-07-03-00-35: FIO
+>2015-07-07-03-00-35: update time series with current forecast
+>2015-07-07-03-00-35: save time series data to file
+>2015-07-07-03-00-35: WCOM
+>2015-07-07-03-00-35: OWM
+>2015-07-07-03-00-35: FIO
+>2015-07-07-03-00-35: --- END ---
+
