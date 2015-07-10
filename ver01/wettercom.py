@@ -65,7 +65,7 @@ check your internet connection and possible server down times."
                 for h in self.api_hours:
                     f = data["city"]["forecast"][d][h]
                     wsp = dm.WeatherSamplePoint(d, h)
-                    wsp.setValues(f["tx"], f["tn"], f["pc"], f["ws"])
+                    wsp.setValues(f["tx"], f["tn"], f["pc"]/100.0, f["ws"])
                     wds.setValuesDayTimeData(wsp)
                 self.sampled_days.append(wds)
             

@@ -18,6 +18,7 @@ test_check
 
 # Sample Data
 *.pkl
+log*.txt
 
 # Library folder
 forecastio
