@@ -18,7 +18,7 @@ test_check
 
 # Sample Data
 *.pkl
-log*.txt
+*log*.txt
 
 # Library folder
 forecastio
@@ -62,3 +62,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+ver01/logAgregator.txt
+ver01/logChecker.txt
+ver01/logFIO.txt
+ver01/logOWM.txt
+ver01/logStatmodel.txt
+ver01/logWeatherSamplePoint.txt
